@@ -1,5 +1,6 @@
 Hola soy Jorge Bolivar
 
-Nací en Colombia
+Nací en Colombia,
+En la ciudad de Barranquilla
  
-Y tengo 19 años
+Y tengo 20 años
